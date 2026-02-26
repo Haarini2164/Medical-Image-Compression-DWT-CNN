@@ -99,6 +99,24 @@ to achieve **high compression ratios while preserving exact image quality**.
 
   <Figure size 1600x1200 with 4 Axes><img width="1589" height="1181" alt="image" src="https://github.com/user-attachments/assets/03eddbfa-1175-4feb-adeb-496198cb3544" />
 
-<Figure size 2000x1600 with 19 Axes><img width="1947" height="1573" alt="image" src="https://github.com/user-attachments/assets/43e44ddb-3af4-47bd-994a-634ffcdb3ff4" />
+## 💡 Why This Project Matters
 
+Medical imaging generates massive data daily, and even small loss of information can affect diagnosis.
 
+This project helps in:
+
+- ✔️ Reducing storage requirements  
+- ✔️ Faster image transmission  
+- ✔️ Maintaining diagnostic accuracy  
+- ✔️ Supporting real-time healthcare systems  
+
+## 🔮 Future Work
+
+- Integration with Kibana for real-time visualization  
+- Extend to 3D MRI and CT scan compression  
+- Optimize CNN for faster inference  
+- Hardware acceleration using GPU/FPGA  
+
+## 🌟 Support
+
+If you like this project, consider giving it a ⭐ on GitHub!
