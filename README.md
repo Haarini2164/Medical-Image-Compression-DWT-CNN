@@ -33,4 +33,4 @@ for efficient **lossless medical image compression**.
 
 ## 👩‍💻 Authors
 - Haarini SK
-- Team 08
+  
